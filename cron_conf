@@ -1,0 +1,1 @@
+13 3 * * * cd grass-sprinkler && ./run.sh
